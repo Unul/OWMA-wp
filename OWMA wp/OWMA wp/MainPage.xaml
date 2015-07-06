@@ -1,0 +1,51 @@
+﻿<Page
+    x:Class="OWMA_wp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OWMA_wp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="150"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Image Source="Assets/logo_310_150.png"></Image>
+        <TextBlock Grid.Row="2" TextAlignment="Center" FontSize="25" Margin="20">Pour accédez aux fonctionnalités :<LineBreak/>inscrivez vous et/ou <LineBreak/> connectez vous</TextBlock>
+    </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar Background="{StaticResource AppBarBackgroundThemeBrush}">
+            <AppBarButton Name="AppBarConnectButton" Label="Se connecter" Icon="Contact">
+                <Button.Flyout>
+                    <Flyout>
+                        <StackPanel>
+                            <TextBlock Text="Se connecter" FontSize="30" Margin="5"/>
+                            <TextBox x:Name="ConnectLoginInput" PlaceholderText="Adresse mail" Width="300" Margin="5"/>
+                            <PasswordBox x:Name="ConnectPasswordInput" PlaceholderText="Mot de passe" Width="300" Margin="5"/>
+                            <Button Name="ConnectButton" Click="ConnectButton_Click" Content="Se connecter" HorizontalAlignment="Right" Margin="5"/>
+                        </StackPanel>
+                    </Flyout>
+                </Button.Flyout>
+            </AppBarButton>
+            <AppBarButton Name="AppBarRegisterButton" Label="S'inscrire" Icon="AddFriend">
+                <Button.Flyout>
+                    <Flyout>
+                        <StackPanel>
+                            <TextBlock Text="S'inscrire" FontSize="30" Margin="5"/>
+                            <TextBox x:Name="RegisterLoginInput" PlaceholderText="Adresse mail" Width="300" Margin="5"/>
+                            <PasswordBox x:Name="RegisterPasswordInput" PlaceholderText="Mot de passe" Width="300" Margin="5"/>
+                            <PasswordBox x:Name="RegisterPasswordConfirmationInput" PlaceholderText="Mot de passe" Width="300" Margin="5"/>
+                            <Button Name="RegisterButton" Click="RegisterButton_Click" Content="S'inscrire" HorizontalAlignment="Right" Margin="5"/>
+                        </StackPanel>
+                    </Flyout>
+                </Button.Flyout>
+            </AppBarButton>
+            <AppBarButton Name="AppBarLogoutButton" Label="Se Déconnecter" Icon="Cancel" Visibility="Collapsed"></AppBarButton>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

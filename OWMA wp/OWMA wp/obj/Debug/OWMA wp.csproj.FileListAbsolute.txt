@@ -1,0 +1,51 @@
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\App.xbf
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\HubPage.xbf
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\ItemPage.xbf
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\MainPage.xbf
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\SectionPage.xbf
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\OWMA wp.xr.xml
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\OWMA wp.exe
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\OWMA wp.pdb
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\resources.pri
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\AppxManifest.xml
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\OWMA wp.build.appxrecipe
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\App.g.i.cs
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\App.g.cs
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\HubPage.g.i.cs
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\HubPage.g.cs
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\ItemPage.g.i.cs
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\ItemPage.g.cs
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\MainPage.g.i.cs
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\MainPage.g.cs
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\SectionPage.g.i.cs
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\SectionPage.g.cs
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\App.xaml
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\HubPage.xaml
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\ItemPage.xaml
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\MainPage.xaml
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\SectionPage.xaml
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\App.xbf
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\HubPage.xbf
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\ItemPage.xbf
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\MainPage.xbf
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\SectionPage.xbf
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\OWMA wp.exe
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\OWMA wp.pdb
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\OWMA wp.csproj.GenerateResource.Cache
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\priconfig.xml
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\layout.resfiles
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\resources.resfiles
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\pri.resfiles
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\qualifiers.txt
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\ProjectArchitectures.txt
+C:\Users\Pierre\documents\visual studio 2015\Projects\OWMA test\OWMA wp\OWMA wp\obj\Debug\OWMA wp.csprojResolveAssemblyReference.cache
